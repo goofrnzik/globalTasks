@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ng-ground-control": {
+      "hosting": {
+        "globalTasks": [
+          "ng-ground-control"
+        ]
+      }
+    }
+  }
+}
